@@ -1,3 +1,4 @@
 document.body.innerHTML = '<h1>Hello from JavsScript</h1>'
 console.log('Привет test 2!');
-console.log('this master and tests');
+console.log('this master and tests!');
+

@@ -3,5 +3,5 @@ console.log('test 2');
 console.log('master + tests branch! new');
 console.log('Hi! master + tests branch' + 'true');
 console.log('test +');
-console.log('test ++!!!!!!!!!!!&@!');
+console.log('test ++!!!!!!!!!!!&@!.');
 // Пробные
